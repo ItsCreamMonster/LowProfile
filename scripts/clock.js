@@ -29,8 +29,6 @@ function calculateTime() {
 function calculateDate() {
     let date = new Date();
 
-    
-
     const months = ['January', 'February', 'Mars', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
     let time = {

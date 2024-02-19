@@ -1,3 +1,7 @@
+body {
+    overflow: hidden;
+}
+
 #customizationBtn {
     background-color: transparent;
     border: none;
@@ -18,10 +22,12 @@
     font-size: 120px;
     margin: 0px;
     cursor: default;
+    white-space: nowrap;
 }
 
 #date {
     font-size: 50px;
     margin: 0px;
     cursor: default;
+    white-space: nowrap;
 }
